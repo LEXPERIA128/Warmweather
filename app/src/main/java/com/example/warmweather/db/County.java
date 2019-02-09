@@ -2,7 +2,7 @@ package com.example.warmweather.db;
 
 import org.litepal.crud.DataSupport;
 
-public class Conuty extends DataSupport {
+public class County extends DataSupport {
     private int id;
     private String countyName;
     private String weatherId;
